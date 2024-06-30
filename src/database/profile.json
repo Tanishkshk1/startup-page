@@ -1,21 +1,24 @@
 {
-    "username": "noriaku",
-    
-    "country": "Peru",
-    "city": "Lima",
+  "username": "Nobita",
 
-    "categories": {
-        "work": {
-            "slack": "https://slack.com/",
-            "trello": "https://trello.com"
-        },
-        "news": {
-            "xataka": "https://xataka.com",
-            "theverge": "https://theverge.com"
-        },
-        "social": {
-            "github": "https://github.com",
-            "reddit": "https://reddit.com"
-        }
+  "country": "India",
+  "city": "Rohtak",
+
+  "categories": {
+    "Work": {
+      "RustBook": "https://doc.rust-lang.org/book/",
+      "Roadmap": "https://roadmap.sh/"
+    },
+    "Media": {
+      "Youtube": "https://youtube.com",
+      "Netflix": "https://netflix.com",
+      "Hianime": "https://hianime.to/home"
+    },
+    "Social": {
+      "whatsapp": "https://web.whatsapp.com",
+      "github": "https://github.com",
+      "reddit": "https://reddit.com"
     }
+  }
 }
+
